@@ -1,4 +1,4 @@
-# Enterprise-Grade Retail Sales Data Analysis
+# Enterprise-Grade Level Retail Sales Data Analysis
 
 An end-to-end production-level retail analytics platform built from the Superstore Sales Dataset. Features a modular Python pipeline with Pandera schema validation, advanced analytics (RFM segmentation, association rule mining, anomaly detection), an interactive Streamlit dashboard with Plotly visualizations, and full DevOps deployment infrastructure (Docker, GitHub Actions CI/CD, Terraform/AWS).
 
