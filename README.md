@@ -166,4 +166,4 @@ Date range: **January 2014 – December 2017** · All United States transactions
 | Testing | Pytest |
 | Containerization | Docker |
 | CI/CD | GitHub Actions |
-| Infrastructure | Terraform, AWS ECS Fargate, ALB |
+| Infrastructure | Terraform, AWS ECS Fargate, ALB | 
