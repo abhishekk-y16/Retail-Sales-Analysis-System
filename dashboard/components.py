@@ -1,5 +1,5 @@
 """
-Reusable Streamlit UI Components.
+Reusable Streamlit UI Components. 
 
 Each function renders a self-contained Plotly chart or metric card
 into the active Streamlit context.
